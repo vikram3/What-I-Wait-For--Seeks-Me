@@ -1,104 +1,76 @@
-1. Story
+# What I Wait For, Seeks Me  
+*Dreams remember what reality forgets.*  
 
-They once sat side by side in a classroom filled with afternoon sunlight.
-They laughed, shared snacks, doodled in notebooks, and stared at the sky together.
-It felt ordinary — ordinary enough to last forever.
+![Game Banner Placeholder](./banner.png) <!-- replace with your banner/screenshot -->
 
-But forever ended quietly. One day, she was gone. No goodbye, no promise, no reason to wait.
-The boy thought time would erase her.
+---
 
-Yet, in his dreams, he still waits.
-And in those dreams, she searches for him — even if in reality, she may have already forgotten his name.
-The dream becomes the only place where what he waits for, seeks him back.
+## 📖 About the Game  
 
-2. Overview
+**What I Wait For, Seeks Me** is a short **3D third-person narrative adventure** built in **Godot Engine 4**.  
+It tells the story of a boy who lost his childhood classmate and still waits for her in his dreams.  
+In that dream, she searches for him — even if, in reality, she may not remember his name.  
 
-Title: What I Wait For, Seeks Me
+---
 
-Subtitle: Dreams remember what reality forgets.
+## ✨ Features  
+- 🎮 **Third-person exploration** with light platforming  
+- 📝 **Memory item collection** that unlocks fragments of the past  
+- 🎬 **Dreamlike cutscenes** with surreal transitions  
+- 🌌 **Nostalgic school-inspired dream environments**  
+- 🎹 **Atmospheric piano and ambient soundscapes**  
+- 🕒 **Playtime:** ~15–20 minutes  
 
-Engine: Godot 4 (latest stable version)
+---
 
-Platform: PC (Windows/Linux), Web export planned
+## 🎥 Story Summary  
 
-Genre: 3D Narrative Story Game
+They once sat side by side in a classroom filled with afternoon sunlight.  
+They laughed, shared snacks, and drew doodles together. It all felt ordinary — ordinary enough to last forever.  
 
-Audience: Casual players, 16+
+But forever ended quietly. One day, she was gone. No goodbye, no promise.  
+He thought time would erase her… but in his dreams, he still waits.  
+And in those dreams, she searches for him.  
 
-Playtime: 12–20 minutes
+The dream becomes the only place where **what he waits for, seeks him back.**  
 
-Team: Solo developer (expandable)
+---
 
-Summary:
-A short narrative platformer about longing, memory, and imagined reunion.
-The player experiences both perspectives — her search and his waiting.
-Three short levels combine exploration, collectibles, and light platforming with dreamlike cinematic storytelling.
+## 🛠 Development  
 
-3. Gameplay
-Core Loop
+- **Engine:** Godot Engine 4 (latest stable)  
+- **Language:** GDScript (C# optional for later systems)  
+- **Platform Targets:** Windows / Linux / Web (planned)  
+- **Status:** Prototype in progress  
 
-Explore nostalgic school-inspired environments.
+---
 
-Collect memory items (3 per level).
+## 🚀 How to Play (when release is ready)  
 
-Unlock progression (doors, benches, courtyards).
+1. Download the latest release from the [Releases](../../releases) page.  
+2. Extract the files.  
+3. Run the game executable.  
 
-Experience cinematic flashbacks tied to each item.
+---
 
-Continue toward reunion.
+## 📷 Screenshots (WIP)  
 
-Controls
+*(Screenshots and GIFs will go here once gameplay scenes are ready.)*  
 
-Move: A/D or Left/Right
+---
 
-Jump: Space
+## 🤝 Contributing  
 
-Interact/Collect: E
+This is currently a solo-dev project, but contributions (feedback, testing, code suggestions) are welcome.  
 
-Mobile: On-screen buttons
+---
 
-Mechanics
+## 📜 License  
 
-Memory Items: Each triggers a short dialogue overlay.
+MIT License – free to use, modify, and share.  
 
-Obstacles: Books, collapsing platforms, floating objects.
+---
 
-Cinematics: Timed with AnimationPlayer + dialogue.
+## 🌌 Theme Quote  
 
-Visual Style: Soft, faded textures, slight film grain shader, gentle parallax backgrounds.
-
-4. Levels
-Level 1: Her Memory
-
-Perspective: Girl searching for traces of the boy.
-
-Setting: School gate → hallway → classroom door.
-
-Collectibles: Notebook, watch, pencil.
-
-End: She whispers, “I can’t forget you.”
-
-Level 2: His Memory
-
-Perspective: Boy remembering her absence.
-
-Setting: Classroom with desks and chalkboards.
-
-Collectibles: Ribbon, sketch, pressed flower.
-
-End: He asks, “Why did you have to go?”
-
-Level 3: The Reunion
-
-Perspective: Girl searching again.
-
-Setting: Surreal dream courtyard (floating books, collapsing desks, wind).
-
-Goal: Reach boy at the bench.
-
-Cinematic End: Their hands nearly touch. Time halts.
-
-Ending
-
-Darkness. Silence.
-Fade into the classroom bench, both present, controls locked.
+> *“What I wait for, seeks me. Dreams remember what reality forgets.”*  
