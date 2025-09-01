@@ -14,10 +14,10 @@ In that dream, she searches for him — even if, in reality, she may not remembe
 ---
 
 ## ✨ Features  
-- 🎮 **Third-person exploration** with light platforming  
+- 🎮 **Third-person exploration** with full 3D environments  
 - 📝 **Memory item collection** that unlocks fragments of the past  
-- 🎬 **Dreamlike cutscenes** with surreal transitions  
-- 🌌 **Nostalgic school-inspired dream environments**  
+- 🎬 **Cinematic cutscenes** with dreamlike transitions  
+- 🌌 **Nostalgic school-inspired dreamscapes**  
 - 🎹 **Atmospheric piano and ambient soundscapes**  
 - 🕒 **Playtime:** ~15–20 minutes  
 
